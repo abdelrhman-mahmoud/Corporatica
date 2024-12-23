@@ -20,8 +20,8 @@ A demonstration of a Retrieval-Augmented Generation (RAG) chatbot built with [La
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/yourusername/your-repo-name.git
-   cd your-repo-name
+   git clone https://github.com/abdelrhman-mahmoud/Corporatica.git
+   cd Corporatica
    ```
 
 2. **Install Dependencies**
