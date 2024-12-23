@@ -112,11 +112,3 @@ my_streamlit_app/
    - If no documents are uploaded or no relevant results are found, the agent falls back to direct answers or clarifications.
 3. **System Requirements**  
    - Tested on Python 3.12. Make sure your environment meets [ollama's prerequisites](https://github.com/jmorganca/ollama).
-
-## License
-
-You may include a license of your choice here, like MIT License or Apache 2.0.
-
----
-
-**Happy Chatting!**
